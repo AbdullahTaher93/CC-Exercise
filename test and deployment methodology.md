@@ -1,5 +1,5 @@
-test and deployment methodology
-Testing: it’s one of those potentially dull and yet highly contentious topics. I’ll try to avoid the dull, but there may be some contention brewing on the horizon.
+# test and deployment methodology
+## Testing: it’s one of those potentially dull and yet highly contentious topics. I’ll try to avoid the dull, but there may be some contention brewing on the horizon.
 
 Most programmers work on software that others have created and that others will develop after them. Sharing the code creates a community in which the team of developers live and interact. Preserving code quality not only has a direct impact on how well a developer can do their job, it becomes a moral obligation to their colleagues in the community.
 
